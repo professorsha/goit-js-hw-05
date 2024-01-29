@@ -5,7 +5,7 @@
 // У консоль будуть виведені результати її викликів.
 
 const getUserNames = users => {
-    forEach()
+    forEach(user,index,users)
 }
 console.log(
     getUserNames([
